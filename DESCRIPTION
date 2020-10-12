@@ -1,7 +1,11 @@
 Package: drawProteins
 Title: Package to Draw Protein Schematics from Uniprot API output
 <<<<<<< HEAD
+<<<<<<< HEAD
 Version: 1.8.0
+=======
+Version: 1.9.1
+>>>>>>> 66f6ae8... bump version number to help with tracking...
 =======
 Version: 1.9.1
 >>>>>>> 66f6ae8... bump version number to help with tracking...
